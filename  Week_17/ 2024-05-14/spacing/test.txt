@@ -1,8 +1,8 @@
-<root>
+    <root>
 <political frozen="bring">slip</political>
 <fear choice="coming">
 <forgotten>-598892971.117444</forgotten>
-<buffalo>
+    <buffalo>
 <with rubbed="motion">994906480.3347309</with>
 <ill brought="together">report</ill>
 <principle>form</principle>
@@ -11,7 +11,7 @@
 <gravity thou="stranger">
 <coal/>
 </gravity>
-</buffalo>
+    </buffalo>
 <development neighborhood="afternoon">stopped</development>
 <refused smile="tail">surprise</refused>
 <camera>
@@ -23,7 +23,7 @@
 <battle species="across">1824204011</battle>
 <plenty>708713768.470465</plenty>
 <stick place="flew">
-<kill>
+    <kill>
 <entire view="took">1071889254</entire>
 <sleep sheet="mirror">
 <stomach>861240590</stomach>
@@ -36,7 +36,7 @@
 </sleep>
 <lesson>steep</lesson>
 <fourth labor="hungry">1728032680</fourth>
-</kill>
+    </kill>
 <welcome think="ancient">across</welcome>
 <live shall="stay">word</live>
 <wear fed="mostly">1560324341</wear>
@@ -61,6 +61,6 @@
 </camera>
 <through>draw</through>
 <swim>movement</swim>
-</fear>
+    </fear>
 <behind choose="spell">death</behind>
-</root>
+    </root>
