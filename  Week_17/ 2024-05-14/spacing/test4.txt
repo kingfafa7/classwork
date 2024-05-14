@@ -1,0 +1,27 @@
+<root>
+<worry>1263052041.5750968</worry>
+<beginning>227960936.49642444</beginning>
+<rising/>
+<halfway>
+<wool>
+<list slide="held">bank</list>
+<broke>hurry</broke>
+<got>
+<cut>-862453368.6973646</cut>
+<addition usual="region">seen</addition>
+<milk indeed="involved">calm</milk>
+<sky simplest="distance">-1255955477.6575184</sky>
+<subject>control</subject>
+<can bigger="excitement">1165114984.5672412</can>
+<purpose>
+<school flag="opinion">mad</school>
+<mouse>-1524822556.0710537</mouse>
+<rush>-124254686</rush>
+<change guess="silence">-1850544742</change>
+</purpose>
+</got>
+</wool>
+</halfway>
+<slept>2088644433.6879673</slept>
+<directly middle="again">314479909</directly>
+</root>
