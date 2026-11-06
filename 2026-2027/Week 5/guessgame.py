@@ -10,4 +10,4 @@ while True:
         print("too high! moron.")
     else:
         print("congrats! you are correct")
-        print("amount of atempts:", attempts)
+        print("amount of attempts:", attempts)
